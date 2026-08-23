@@ -16,10 +16,6 @@ Project delivery · Operations · Public data · AI-assisted building
 
 - **[Hafiy.my](https://hafiy.my)**: My experience, experiments, and writing about project work and AI-native delivery.
 
-## Open source
-
-I contributed a fix that makes disabled-tool settings work consistently across Hermes Agent's gateway platforms. My original [PR #16867](https://github.com/NousResearch/hermes-agent/pull/16867) was later incorporated by the maintainers into merged [PR #16904](https://github.com/NousResearch/hermes-agent/pull/16904).
-
 ## Selected writing
 
 - [Build to Learn](https://hafiy.my/posts/build-to-learn.html)
@@ -28,4 +24,6 @@ I contributed a fix that makes disabled-tool settings work consistently across H
 
 ## Connect
 
-[Website](https://hafiy.my) · [LinkedIn](https://www.linkedin.com/in/hafiy/) · [X](https://x.com/NHv2Pro)
+[![Website](https://img.shields.io/badge/Website-hafiy.my-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://hafiy.my)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nazirul_Hafiy-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiy/)
+[![X](https://img.shields.io/badge/X-@NHv2Pro-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/NHv2Pro)
