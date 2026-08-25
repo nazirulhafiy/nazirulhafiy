@@ -1,4 +1,4 @@
-# Hi, I'm Hafiy 👋
+# Hi, I'm Nazirul 👋
 
 📍 **Kuching, Sarawak** | 🛠️ **Building in public** | 🤖 **AI-assisted delivery**
 
