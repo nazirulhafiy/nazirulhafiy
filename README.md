@@ -1,12 +1,14 @@
-## Start here
+# Hi, I'm Hafiy 👋
 
-- **[PCDS 2030 Project Tracker](https://pcds2030.com)** ([source](https://github.com/nazirulhafiy/sarawak-pcds-2030-tracker)): An independent tracker of major Sarawak PCDS 2030 projects, milestones, statuses, and public sources.
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-- **[SDE 2030 Blueprint Explorer](https://sde2030.com)** ([source](https://github.com/nazirulhafiy/sarawak-sde-2030-blueprint-explorer)): An independent explorer of 106 initiatives from Sarawak's Digital Economy Blueprint 2030.
+## Start Here
 
-- **[AI.Sarawak.News](https://ai.sarawak.news)** ([source](https://github.com/nazirulhafiy/sarawak-ai-news)): A curated Sarawak AI intelligence brief tracking government, universities, businesses, infrastructure, and future-economy signals.
-
-- **[Hafiy.my](https://hafiy.my)**: My experience, experiments, and writing about project work and AI-native delivery.
+- [PCDS 2030 Project Tracker](https://pcds2030.com)
+- [SDE 2030 Blueprint Explorer](https://sde2030.com)
+- [AI.Sarawak.News](https://ai.sarawak.news)
+- [Hafiy.my](https://hafiy.my)
 
 ## Selected writing
 
