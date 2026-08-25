@@ -1,7 +1,3 @@
-# Hi, I'm Nazirul Hafiy 👋
-
-I bring structure to complex work and turn strategies, public information, and source material into tools people can explore, understand, and trust.
-
 ## Start here
 
 - **[PCDS 2030 Project Tracker](https://pcds2030.com)** ([source](https://github.com/nazirulhafiy/sarawak-pcds-2030-tracker)): An independent tracker of major Sarawak PCDS 2030 projects, milestones, statuses, and public sources.
