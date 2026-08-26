@@ -2,7 +2,7 @@
 
 I am an AI hobbyist who builds to learn.
 
-I turn public plans and source material into clear websites, trackers, and writing.
+My current interests revolve around turning public plans and source material into clear websites, trackers, and writing.
 
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
