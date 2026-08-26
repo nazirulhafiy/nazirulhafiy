@@ -1,7 +1,5 @@
 # Hi, I'm Nazirul 👋
 
-📍 **Kuching, Sarawak** | 🛠️ **Building in public** | 🤖 **AI-assisted delivery**
-
 I turn public plans and source material into clear websites, trackers, and writing.
 
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
