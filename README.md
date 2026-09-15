@@ -12,7 +12,7 @@ My current interests revolve around turning public plans and source material int
 - 🗺️ **[PCDS 2030 Project Tracker](https://pcds2030.com)** — Track major projects, milestones, and public sources.
 - 🧭 **[SDE 2030 Blueprint Explorer](https://sde2030.com)** — Explore all 106 initiatives in the blueprint.
 - 📰 **[AI.Sarawak.News](https://ai.sarawak.news)** — Follow important Sarawak AI developments.
-- ✍️ **[Hafiy.my](https://hafiy.my)** → My portfolio. 
+- ✍️ **[hafiy.my](https://hafiy.my)** —  My portfolio. 
 
 ## Selected Writing
 
