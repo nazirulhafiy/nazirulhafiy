@@ -4,7 +4,7 @@ I am an AI hobbyist who builds to learn.
 
 My current interests revolve around turning public plans and source material into clear websites, trackers, and writing.
 
-![Grok Bot](https://img.shields.io/badge/-Grok%20Bot-121212?style=flat-square)
+![Grok Bot](https://img.shields.io/badge/-Grok%20Bot-121212?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGRlZnM%2BPG1hc2sgaWQ9Im0iPjxyZWN0IHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgZmlsbD0iIzAwMCIvPjxwYXRoIGQ9Ik0yIDI0QzIgMTEuNSA2LjggNCAxMiA0czEwIDcuNSAxMCAyMEgyeiIgZmlsbD0iI2ZmZiIvPjxlbGxpcHNlIGN4PSI5LjIiIGN5PSIxNC4yIiByeD0iMS41NSIgcnk9IjMuMSIgdHJhbnNmb3JtPSJyb3RhdGUoLTI4IDkuMiAxNC4yKSIgZmlsbD0iIzAwMCIvPjxlbGxpcHNlIGN4PSIxNC44IiBjeT0iMTQuMiIgcng9IjEuNTUiIHJ5PSIzLjEiIHRyYW5zZm9ybT0icm90YXRlKC0yOCAxNC44IDE0LjIpIiBmaWxsPSIjMDAwIi8%2BPC9tYXNrPjwvZGVmcz48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9IiNmZmYiIG1hc2s9InVybCgjbSkiLz48L3N2Zz4%3D)
 
 ## Start Here
 
