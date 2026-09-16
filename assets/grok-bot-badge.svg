@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="83" height="20" role="img" aria-label="Grok Bot">
+  <title>Grok Bot</title>
+  <rect width="83" height="20" fill="#121212"/>
+  <image x="3" y="1" width="18" height="18" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAABiElEQVR42p2UPWtUQRSGn7mXRC6uIJhSxKCVhZBYBAyk06QULGz8Ff4Mf4AgwSqmiiS1je1uY5UyKAgGjIiFn2GTu08Kz8DkchdXXxjOfJzzzjkz70xSG/6gBsYppbF6G3gErALXgQQcAkNgJ6U0UmugAVoA1EYdqJV6RX2mfnc6jtVt9VrED9QG9aJaqzfV/SLgVG3VSbQ25jI+qiuZDPWCuqAehMM4AjMmHQKL8Wd1UZ3L5b0oSGbBsfoh+q/VGnUpCNqeTFQPwzmXZ5BcVocxvof6tJNuxknY55H1sJP1LfVhbLBVAWtx/YnzqMLeD7sZtg37GPgacXcpap30nEWe21CfdDI/Ub9F/2dS3wOLgD1ZzYrTCjiKgX9x7lufhP1SAaMZidIUcoG3FfAqDvB/ykrRtrIgdzpXPguy70idQ51Xr6qf/kHdmeSXeicrexBZrahHxbX3Kb0t1P1DfVA+2qYgu6HuTdFUiTfqcvcbaco/KRbX1Zfqu9j5dwh3N55FHX6XcvwZJ+AjgLiyHLgAAAAASUVORK5CYII="/>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11">
+    <text x="53" y="14">Grok Bot</text>
+  </g>
+</svg>
