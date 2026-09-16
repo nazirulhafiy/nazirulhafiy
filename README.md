@@ -4,7 +4,7 @@ I am an AI hobbyist who builds to learn.
 
 My current interests revolve around turning public plans and source material into clear websites, trackers, and writing.
 
-![Grok Bot](assets/grok-bot-badge.svg)
+![Grok Bot](assets/grok-bot-badge.svg?v=3)
 ![Cursor](https://img.shields.io/badge/-Cursor-121212?style=flat-square&logo=cursor&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-121212?style=flat-square&logo=apple&logoColor=white)
 
